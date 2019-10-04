@@ -4,4 +4,9 @@ main {
     margin: 0 auto;
     background-color: yellow;
   }
+
+main img{
+     width: 50%;
+     height: auto;
+}
   
